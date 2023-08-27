@@ -1,7 +1,7 @@
 # TermuxLibrary
 
 # İnstallation
-“`git clone https://github.com/coderfenrir/TermuxLibrary“`
+`git clone https://github.com/coderfenrir/TermuxLibrary`
 
 ```cd TermuxLibrary/```
 
